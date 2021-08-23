@@ -25,28 +25,28 @@ Over years of building their proprietary models and data sets, Zillow has a rela
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Zillow uses a variet of technologies, including machine learning and AI.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* On demand home valuations (ie "Zestimate") have dramatically increased in availability and accuracy, putting enormous pressure on the traditional realtor/client interaction.
 
-* What are the other major companies in this domain?
+* Redfin, Realtor.com
 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* The biggest impact by far that Zillow has made on the market is the collapsing of transaction commissions. In 1991 the average residential real estate commission in the US of A exceeded 6%. For 2020, the national average was 4.94%. When you consider that there are $80bb in transactions per year, this is a huge savings for consumers. 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* Web traffic, ad sales, and referal clicks are all sky high at Zillow.
 
-* How is your company performing relative to competitors in the same domain?
+* Zillow dominates the entire industry. 
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If I advised zillow, I would be directing spending and development of but AR and VR offerings for people to view homes. This is relevant not only for these pandemic times, but for migration. People can more easily see houses from afar. 
 
-* Why do you think that offering this product or service would benefit the company?
+* This would help Zillow reach more consumers in a more meaningful way.
 
-* What technologies would this additional product or service utilize?
+* Augmented and Virtual Reality.
 
-* Why are these technologies appropriate for your solution?
+* People want to walk around houses.
