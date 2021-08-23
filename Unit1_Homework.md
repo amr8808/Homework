@@ -1,24 +1,24 @@
-# TITLE
+# FINTECH CASE STUDY
 
 ## Overview and Origin
 
-* Name of company
+* The Zillow Group
 
-* When was the company incorporated?
+* 2006
 
-* Who are the founders of the company?
+* Richard Barton, Lloyd Frink, Spencer Rascoff, Dabid Beitel, & Kristin Acker
 
-* How did the idea for the company (or project) come about?
+* Founders previously started Expedia. Strategy was to publicized (connect) data to consumers that previously was secret.
 
-* How is the company funded? How much funding have they received?
+* Founders capital
 
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* Residential real estate was long the domain of local agents, hoarding information and data about purchases, sales, room counts, square footage and other critical information in the market for buying and selling homes. Their technology, known as "MLS", evolved from index cards in files into closed data networks. The moat was, these data repositories were not publically accessible and much of the information was proprietary (ie, how many days was this home listed before selling). Zillow endeavored to build its own data from public sources, and lower the veil on this secret world - empowering the buyers/sellers.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* The company's intended customers are multitude, but at the end of the day the residential buyer/seller is the main target. The size of this market is vast, there are in excess of 5 million homes bought and sold annually in the US of A.
+Over years of building their proprietary models and data sets, Zillow has a relatively unassailable position in the market as the "google" of home buying. Redfin is attempting to challenge them by offering a complementary agent service.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
